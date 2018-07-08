@@ -24,3 +24,4 @@ public class Test1 {
 		System.out.println('0'+0);
 	}
 }
+11111111111111111111111111111111111
