@@ -24,3 +24,5 @@ public class Test1 {
 		System.out.println('0'+0);
 	}
 }
+
+16666666666666
